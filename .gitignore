@@ -1,0 +1,14 @@
+
+# Ignore locally installed dependencies
+/node_modules/
+
+# Ignore build products
+/build/
+*.deb
+
+# IDE specific files
+/.idea/
+
+/npm-debug.log
+
+/.env

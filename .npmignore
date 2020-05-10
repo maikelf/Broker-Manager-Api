@@ -1,0 +1,12 @@
+# Created by .ignore support plugin (hsz.mobi)
+
+flow-typed
+
+Dockerfile
+
+.idea
+
+.eslintignore
+.eslintrc.json
+.flowconfig
+.gitlab-ci.yml
